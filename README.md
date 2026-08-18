@@ -2,7 +2,7 @@
 
 📍 **Sydney, Australia** | 💻 **Software Engineer** | 🧪 **Building, shipping & occasionally killing ideas**
 
-Software Engineering (Honours) graduate from **UNSW**.
+Software Engineering (Honours) graduate from **UNSW Sydney**.
 
 Currently tutoring at UNSW, fast-tracking a **Master of Information Technology**, and spending the rest of my time building things.
 
@@ -69,12 +69,6 @@ Personal portfolio and web experiments.
 
 ## Sacked 🪦
 
-Not every idea deserves to become a startup.
-
-This is where projects go when the idea was interesting,
-the prototype taught me something,
-but continuing to build it stopped making sense.
-
 _No public casualties yet._
 
 ## What I'm Doing
@@ -101,7 +95,7 @@ All of them teach me something.
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-goyal888/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdityaGoyal11)
 
 ### Work

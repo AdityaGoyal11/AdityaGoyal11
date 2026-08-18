@@ -19,6 +19,9 @@ I like turning ideas into working products quickly, learning what breaks, and sh
 
 ## Start Here
 
+- **[Groc-Mate](https://github.com/AdityaGoyal11/groc-mate)**
+  Order groceries from your terminal.
+
 - 🎾 **[Sense My Rally](https://github.com/AdityaGoyal11/sense-my-rally)**  
   Local-first tennis video analysis and coaching platform.
 

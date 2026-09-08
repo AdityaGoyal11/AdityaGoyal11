@@ -22,8 +22,11 @@ I like turning ideas into working products quickly, learning what breaks, and sh
 - 🛒 **[Groc-Mate](https://github.com/AdityaGoyal11/groc-mate)**  
   Order groceries from your terminal.
 
-- 🎾 **[Sense My Rally](https://github.com/AdityaGoyal11/sense-my-rally)**  
-  Local-first tennis video analysis and coaching platform.
+- 🧭 **MyArc · Trippy · Zero · Fit Map**  
+  Life timelines, travel planning, thoughtful publishing, and fitness adventures. See what I'm building below.
+
+- 📱 **Budge · Twig**  
+  Native iOS experiments in budgeting and daily journaling.
 
 - 🌱 **[SIERRA Investments](https://github.com/AdityaGoyal11/SIERRA-Investments)**  
   Serverless AWS platform for processing and querying ESG investment data.
@@ -36,17 +39,33 @@ I like turning ideas into working products quickly, learning what breaks, and sh
 
 ## Currently Building
 
-### 🎾 Sense My Rally
+### 🧭 MyArc — Life Journey
 
-Upload tennis footage → analyse rallies → turn computer-vision data into useful coaching feedback.
+A personal timeline for career chapters, projects, education, and life's milestones. Turn a résumé into a story you can edit, publish, and share.
 
-Building around:
+`TypeScript` · `React` · `Tailwind CSS` · `Supabase`
 
-`FastAPI` · `OpenCV` · `React Native` · `Expo` · `YOLO` · `ByteTrack` · `MediaPipe`
+### ✈️ Trippy
 
-The philosophy is integration-first: use strong existing CV models rather than rebuilding everything from scratch.
+A Siri-first travel planner for iPhone, built around shared itineraries, day-by-day plans, and maps. Currently developing the MVP and collaborative planning experience.
 
-[View project →](https://github.com/AdityaGoyal11/sense-my-rally)
+`SwiftUI` · `App Intents` · `MapKit` · `Node.js` · `PostgreSQL`
+
+### ✍️ Zero — Typed here
+
+A calm publishing space built around writing directly in the editor, with transparent information about how an article was entered. Exploring a more intentional place to write and read.
+
+`TypeScript` · `Supabase`
+
+### 🗺️ Fit Map
+
+Turn verified workouts into moves on a territory map. An iPhone fitness experiment where staying active helps you claim ground and build your patch of the world.
+
+`SwiftUI` · `MapKit` · `HealthKit`
+
+### 🎾 Something's Coming
+
+Something new is coming for tennis players looking to up their game. More when it's ready.
 
 ## Shipped / Finished
 
@@ -70,9 +89,33 @@ Personal portfolio and web experiments.
 
 [View project →](https://github.com/AdityaGoyal11/Portfolio)
 
+## Past Builds / On Hold
+
+### 💸 Budge
+
+A local-first budgeting prototype for iPhone. Track expenses, plan savings goals, and explore spending decisions through a command bar or voice.
+
+`SwiftUI` · `SwiftData` · `Foundation Models` · `WidgetKit`
+
+_Parked for now._
+
+### 🪺 Twig
+
+A quiet, one-entry-a-day journal for iPhone and iPad. Each saved day adds a piece to a living nest, turning consistency into something you can see grow.
+
+`SwiftUI` · `SwiftData` · `Apple frameworks`
+
+_Parked for now._
+
 ## Sacked 🪦
 
-_No public casualties yet._
+### 🎾 [Sense My Rally](https://github.com/AdityaGoyal11/sense-my-rally)
+
+An experiment in local-first tennis video analysis and coaching feedback.
+
+`FastAPI` · `OpenCV` · `React Native` · `Expo`
+
+_No longer in active development. Lessons taken; moving on._
 
 ## What I'm Doing
 

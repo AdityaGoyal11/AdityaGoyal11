@@ -80,12 +80,6 @@ One of my earlier React projects.
 
 [View project →](https://github.com/AdityaGoyal11/currency-guard)
 
-### 🌐 Portfolio
-
-Personal portfolio and web experiments.
-
-[View project →](https://github.com/AdityaGoyal11/Portfolio)
-
 ## Past Builds / On Hold
 
 ### 💸 Budge

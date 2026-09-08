@@ -34,9 +34,6 @@ I like turning ideas into working products quickly, learning what breaks, and sh
 - 🛡️ **[Currency Guard](https://github.com/AdityaGoyal11/currency-guard)**  
   React-based security project.
 
-- 🌐 **[Portfolio](https://github.com/AdityaGoyal11/Portfolio)**  
-  My personal developer portfolio.
-
 ## Currently Building
 
 ### 🧭 MyArc — Life Journey

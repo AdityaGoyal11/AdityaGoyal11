@@ -16,7 +16,7 @@ I build products quickly, put them to real use, and keep the ones that earn thei
 ## About me
 
 - 🎓 Software Engineering (Honours) graduate from **UNSW Sydney**
-- 👨‍🏫 Software engineering tutor at UNSW
+- 👨‍🏫 AI Research Assistant at UNSW
 - 📚 Completing an accelerated **Master of Information Technology**
 - 🤖 Exploring how AI agents are changing the way software gets built
 - 💼 Open to **part-time software engineering roles**

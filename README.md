@@ -46,22 +46,42 @@ Search, compare, and fill grocery carts across Woolworths, Coles, and Aldi from 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 [SIERRA Investments](https://github.com/AdityaGoyal11/SIERRA-Investments)
+### 🧭 MyArc
 
-An event-driven AWS service for ESG data. Files uploaded to S3 trigger a Lambda ETL pipeline, results are stored in DynamoDB, and an Express API serves queries.
+A personal timeline of career chapters, projects, and milestones. Turns a résumé into a story you can edit and share. *In development.*
 
-`AWS Lambda` `S3` `DynamoDB` `Express` `Docker` `Terraform`
+`TypeScript` `React` `Tailwind CSS` `Supabase`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Currency Guard](https://github.com/AdityaGoyal11/currency-guard)
+### ✈️ Trippy
 
-A research site on in-game currency scams: how they work, the security and legal responses, and recommendations for players and platforms. [Live site →](https://currency-guard.vercel.app)
+A Siri-first travel planner for iPhone with shared itineraries, day-by-day plans, and maps. *In development.*
 
-`React` `Tailwind CSS` `React Router`
+`SwiftUI` `App Intents` `MapKit` `Node.js` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ Fit Map
+
+An iPhone fitness game where verified workouts let you claim territory on a map. Stay active to build your patch of the world. *In development.*
+
+`SwiftUI` `MapKit` `HealthKit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🪺 Twig
+
+A one-entry-a-day journal for iPhone and iPad. Each saved day adds to a growing nest, so consistency becomes something you can see.
+
+`SwiftUI` `SwiftData`
 
 </td>
 <td width="50%" valign="top">
@@ -80,10 +100,7 @@ A local-first tennis video analysis prototype: a FastAPI and OpenCV backend with
 
 | Project | What it is | Built with |
 |---|---|---|
-| 🧭 **MyArc** | A personal timeline of career chapters, projects, and milestones. Turns a résumé into a story you can edit and share. | TypeScript · React · Tailwind CSS · Supabase |
-| ✈️ **Trippy** | A Siri-first travel planner for iPhone with shared itineraries, day-by-day plans, and maps. | SwiftUI · App Intents · MapKit · Node.js · PostgreSQL |
 | ✍️ **Zero** | A calm publishing platform for writing typed directly in the editor, with transparency about how each piece was written. | TypeScript · Supabase |
-| 🗺️ **Fit Map** | An iPhone fitness game where verified workouts let you claim territory on a map. | SwiftUI · MapKit · HealthKit |
 | 🎾 **Coming soon** | Something for tennis players who want to improve their game. More when it's ready. | — |
 
 <details>
@@ -93,7 +110,6 @@ A local-first tennis video analysis prototype: a FastAPI and OpenCV backend with
 | Project | What it is | Built with |
 |---|---|---|
 | 💸 **Budge** | A local-first budgeting app for iPhone. Log expenses, set savings goals, and explore spending by typing or by voice. | SwiftUI · SwiftData · Foundation Models · WidgetKit |
-| 🪺 **Twig** | A one-entry-a-day journal for iPhone and iPad. Each saved day adds to a growing nest, so consistency becomes something you can see. | SwiftUI · SwiftData |
 
 </details>
 
